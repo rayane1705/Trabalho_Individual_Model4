@@ -7,20 +7,21 @@
 
 ### Questionário
 
-```nkfnkndknfknf
+```nk
+
+° Existem outras entidades além dessas três?
+
+Sim, achei necessários colocar a entidade professores pois fica uma coisa mais completa, poderia ter até mais entidades mas as necessárias estão no contexto.
+
+```n
 
 
-#### Existem outras entidades além dessas três?
-###### Sim, achei necessários colocar a entidade professores pois fica uma coisa mais completa, poderia ter até mais entidades mas as necessárias estão no contexto.
 
-
-### Quais são os principais campos e tipos?
+° Quais são os principais campos e tipos?
 
 
 
--oi
-
-### Como essas entidades estão relacionadas?
+° Como essas entidades estão relacionadas?
 
 
-```
+
