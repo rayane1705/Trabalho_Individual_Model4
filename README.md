@@ -15,11 +15,11 @@ Sim, achei necessários colocar a entidade professores pois fica uma coisa mais 
 poderia ter até mais entidades mas as necessárias estão no contexto.
 
 
-° Quais são os principais campos e tipos?
+° Quais são os principais campos e tipos ?
 
 
 
-° Como essas entidades estão relacionadas?
+° Como essas entidades estão relacionadas ?
 
 
 
