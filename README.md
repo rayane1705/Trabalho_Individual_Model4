@@ -7,16 +7,13 @@
 
 ### Questionário
 
-```sh
 
-° Existem outras entidades além dessas três?
+
+° Existem outras entidades além dessas três ?
 
 Sim, achei necessários colocar a entidade professores pois fica uma coisa mais completa
 poderia ter até mais entidades mas as necessárias estão no contexto.
 
-```sh
-
-# Trabalho_Individual_Model4
 
 ° Quais são os principais campos e tipos?
 
