@@ -19,7 +19,7 @@ poderia haver mais entidades porém as necessárias estão no contexto.
 
 ° Quais são os principais campos e tipos ?
 
-Os principais campos são os Id e a tabela em si, através de um id temos um atributo assim 
+Os principais campos são os Id e a tabela em si, através de um id temos atributos assim 
 facilitando a forma que acessamos nosso banco de dados, todas as tabelas tem seus Id para
 assim ser mais facíl de acessa-lá.
 
