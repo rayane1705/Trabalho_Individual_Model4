@@ -11,15 +11,24 @@
 
 ° Existem outras entidades além dessas três ?
 
-Sim, achei necessários colocar a entidade professores pois fica uma coisa mais completa
-poderia ter até mais entidades mas as necessárias estão no contexto.
+Sim, achei necessário colocar a entidade "professor" porque fica mais completo,
+poderia haver mais entidades porém as necessárias estão no contexto.
 
 
 ° Quais são os principais campos e tipos ?
 
+Os principais campos são os Id e a tabela em si, através do id temos um atributo assim 
+facilitando a forma que acessamos nosso banco de dados, todas as tabelas tem seus Id para
+assim ser mais facíl de acessa-lá.
+
 
 
 ° Como essas entidades estão relacionadas ?
+
+Se relacionam pelo seu campo Id, e pela Primary key ou Foreign Key que determinam a
+unicidade de cada registro dentro de uma tabela.
+
+
 
 
 
