@@ -9,10 +9,12 @@
 
 ```sh
 
+
 ° Existem outras entidades além dessas três ?
 
 Sim, achei necessário colocar a entidade "professor" porque fica mais completo,
 poderia haver mais entidades porém as necessárias estão no contexto.
+
 
 
 ° Quais são os principais campos e tipos ?
