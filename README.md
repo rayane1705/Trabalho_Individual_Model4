@@ -9,3 +9,12 @@
 ###### Sim, achei necessários colocar a entidade professores pois fica uma coisa mais completa, poderia ter até mais entidades mas as necessárias estão no contexto.
 
 
+
+### Quais são os principais campos e tipos?
+
+```nkfnkndknfknf
+-oi
+
+### Como essas entidades estão relacionadas?
+
+
